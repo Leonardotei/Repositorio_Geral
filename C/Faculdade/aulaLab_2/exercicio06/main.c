@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int num, cont, soma=0;
+
+    printf("Digite um numero positivo: \n");
+    scanf("%d", &num);
+
+    //Exemplo: num = 5 -> 1+2+3+4+5 = 15
+
+    cont = 1;
+    do{
+    soma=soma+cont;
+    cont++;
+    }while(cont <= num);
+
+    printf("A soma de todos os numeros de 1 a %d - %d", num, soma);
+
+    return 0;
+}

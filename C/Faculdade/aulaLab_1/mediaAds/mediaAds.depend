@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662508750 source:c:\users\leonardo\desktop\aula_lab\mediaads\main.c
+	<stdio.h>
+	<stdlib.h>
+

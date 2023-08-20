@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664900800 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_3\reajustesalarial\main.c
+	<stdio.h>
+	<stdlib.h>
+

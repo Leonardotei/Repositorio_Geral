@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664845616 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_3\calculopoligono\main.c
+	<stdio.h>
+	<stdlib.h>
+

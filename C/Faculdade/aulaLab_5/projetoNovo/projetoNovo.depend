@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1666136453 source:c:\users\leonardo\documents\codeblocks\aula salatiel\projetonovo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"cabecalho.h"
+
+1666136191 c:\users\leonardo\documents\codeblocks\aula salatiel\projetonovo\cabecalho.h
+
+1666137116 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_5\projetonovo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"cabecalho.c"
+
+1666915165 c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_5\projetonovo\cabecalho.c
+

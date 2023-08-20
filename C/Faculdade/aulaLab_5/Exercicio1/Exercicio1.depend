@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1666099867 source:c:\users\salatiel\desktop\ltp\teórica\exercicios_arquivo\exercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"cabecalho.h"
+
+1666099431 c:\users\salatiel\desktop\ltp\teórica\exercicios_arquivo\exercicio1\cabecalho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
+1666099431 source:c:\users\salatiel\desktop\ltp\teórica\exercicios_arquivo\exercicio1\cabecalho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
+1666100642 c:\users\salatiel\desktop\ltp\teórica\exercicios_arquivo\exercicio1\cabecalho.h
+
+1666117560 source:c:\users\leonardo\desktop\exercicios_4\exercicio1\cabecalho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
+1666133608 source:c:\users\leonardo\desktop\exercicios_4\exercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"cabecalho.h"
+
+1666117560 c:\users\leonardo\desktop\exercicios_4\exercicio1\cabecalho.h
+
+1666713329 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_5\exercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"cabecalho.h"
+
+1666117560 c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_5\exercicio1\cabecalho.h
+
+1666713453 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_5\exercicio1\cabecalho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+

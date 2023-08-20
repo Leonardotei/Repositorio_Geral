@@ -1,0 +1,11 @@
+		Menu
+
+Linha 2: biblioteca 
+
+Linha 6: define idioma, por exemplo o portugues, para usar palavras com acentuação
+
+Linha 19: limpar 
+
+Linha 21: os cases, são como atalhos para por exemplo, puxar um texto do void
+
+Linha 44: o void, apenas executa o que contem nele 

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664928058 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_4\imprimirfrase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

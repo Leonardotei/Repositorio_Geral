@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667349621 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_7\listaexercicios\exercicio_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

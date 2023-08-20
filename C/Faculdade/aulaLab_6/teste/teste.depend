@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666913090 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_6\teste\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<locale.h>
+

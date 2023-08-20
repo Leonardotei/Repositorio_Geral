@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664930235 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_4\quantidadeletras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+

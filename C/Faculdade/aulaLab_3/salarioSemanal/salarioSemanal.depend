@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665266779 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_3\salariosemanal\main.c
+	<stdio.h>
+	<stdlib.h>
+

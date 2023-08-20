@@ -1,0 +1,4 @@
+
+O nome informado foi: Adriana
+
+Este nome contem: 3 letras 'a'

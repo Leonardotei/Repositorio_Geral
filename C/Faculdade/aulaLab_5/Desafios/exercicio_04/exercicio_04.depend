@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666455482 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_5\exercicio_04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1666469935 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_5\trabalho\exercicio_04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

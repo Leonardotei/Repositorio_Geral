@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665237833 source:c:\users\leonardo\documents\codeblocks\aula salatiel\aulalab_2\menuexercicios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

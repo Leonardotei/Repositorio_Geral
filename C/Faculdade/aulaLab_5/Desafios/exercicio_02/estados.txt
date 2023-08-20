@@ -1,0 +1,41 @@
+Norte
+1 - Amazonas (AM) = Amazonense
+2 - Roraima (RR) =  Roraimense
+3 - Amapá (AP) = Amapaense
+4 - Pará (PA) = Paraense
+5 - Tocantins (TO) = Tocantinense
+6 - Rondônia (RO) = Rondoniense
+7 - Acre (AC) = Acriano
+
+Nordeste 	
+8 - Maranhão (MA) = Maranhense
+9 - Piauí (PI) = Piauiense
+10 - Ceará (CE) = Cearense
+11 - Rio Grande do Norte (RN) = Potiguar
+12 - Pernambuco (PE) = Pernambucano
+13 - Paraíba (PB) = Paraibano
+14 - Sergipe (SE) = Sergipano
+15 - Alagoas (AL) = Alagoano
+16 - Bahia (BA) = Baiano
+
+Centro-Oeste
+17 - Mato Grosso (MT) = Mato-grossense
+18 - Mato Grosso do Sul (MS) = Sul-mato-grossense
+19 - Goiás (GO) = Goiano
+20 - Distrito Federal (DF) = Brasiliense
+
+Sudeste
+21 - São Paulo (SP) = Paulista
+22 - Rio de Janeiro (RJ) = Carioca
+23 - Espírito Santo (ES) = Capixaba
+24 - Minas Gerais (MG) = Mineiro 
+
+Sul
+25 - Paraná (PR) = Paranaense
+26 - Rio Grande do Sul (RS) = Gaúcho 
+27 - Santa Catarina (SC) = Catarinense
+
+
+
+
+
