@@ -4,12 +4,9 @@ using System.Collections.Generic;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturasDeControle;
 
-namespace CursoCSharp
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace CursoCSharp {
+    class Program {
+        static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 #region [FUNDAMENTOS]
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
@@ -35,12 +32,11 @@ namespace CursoCSharp
                 {"Estruturas If/Else/If - Estrutura de Controle", EstruturaIfElseIf.Executar},
                 {"Estrutura Switch - Estrutura de Controle", EstruturaSwitch.Executar},
                 {"Estrutura While - Estrutura de Controle", EstruturaWhile.Executar},
-               /* {" - Estrutura de Controle", .Executar},
-                * {" - Estrutura de Controle", .Executar},
-                * {" - Estrutura de Controle", .Executar},
-                * {" - Estrutura de Controle", .Executar}, 
-                * {" - Estrutura de Controle", .Executar},
-                */
+                {"Estrutura Do While - Estrutura de Controle", EstruturaDoWhile.Executar},
+                {"Estrutura For - Estrutura de Controle", EstruturaFor.Executar},
+                {"Estrutura For Each - Estrutura de Controle", EstruturaForEach.Executar},
+                {"Usando Break - Estrutura de Controle", Break.Executar}, 
+                {"Usando Continue - Estrutura de Controle", Continue.Executar},
                 #endregion
             });
 
