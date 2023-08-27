@@ -13,3 +13,17 @@ C:\Users\Leonardo\Documents\Visual Studio 2022\CSharp\Udemy\CursoCSharp\CursoCSh
 C:\Users\Leonardo\Documents\Visual Studio 2022\CSharp\Udemy\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
 C:\Users\Leonardo\Documents\Visual Studio 2022\CSharp\Udemy\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\Leonardo\Documents\Visual Studio 2022\CSharp\Udemy\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+D:\Programação\Repositorio_Geral\CSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
