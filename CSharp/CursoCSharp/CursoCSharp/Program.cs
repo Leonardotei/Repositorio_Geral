@@ -42,6 +42,7 @@ namespace CursoCSharp {
                 
                 #region[CLASSES E MEDOTOS]
                 {"Membros - Classes e Metodos", Membros.Executar},
+                {"Construtores - Classes e Metodos", Construtores.Executar},
 
                 //{" - Classes e Metodos", .Executar},
                 #endregion
