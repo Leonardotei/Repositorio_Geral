@@ -1,17 +1,14 @@
 alert('1 - Mostre um alerta com a mensagem "Boas vindas ao nosso site!".');
 alert('Boas vindas ao nosso site!');
 
-//Declare uma variável chamada nome e atribua a ela o valor "Lua".
 alert('2 - Declare uma variável chamada nome e atribua a ela o valor "Lua".');
 let nome = 'Lua';
 console.log(`nome = ${nome}`);
 
-//Crie uma variável chamada idade e atribua a ela o valor 25.
 alert('3 - Crie uma variável chamada idade e atribua a ela o valor 25.');
 let idade = 25;
 console.log(`idade = ${idade}`);
 
-//Defina uma variável numeroDeVendas e atribua a ela o valor 50.
 alert('4 - Defina uma variável numeroDeVendas e atribua a ela o valor 50.');
 let numeroDeVendas = 50;
 console.log(`numeroDeVendas = ${numeroDeVendas}`);
