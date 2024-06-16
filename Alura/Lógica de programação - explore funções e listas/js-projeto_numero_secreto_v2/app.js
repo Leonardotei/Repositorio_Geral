@@ -15,6 +15,12 @@ exibirTextoNaTela('h1', 'Jogo do número secreto');
 exibirTextoNaTela('p', 'Escolha um número entre 1 a 10');
 
 function verificarChute(){
+    let chute = document.querySelector('input').value;
+    if (chute == numeroSecreto){
+        console.log('Você acertou!');
+    }else{
+        console.log('Você errou!');
+    }
     console.log(numeroSecreto);
 }
 
